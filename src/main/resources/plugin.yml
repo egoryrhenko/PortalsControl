@@ -1,0 +1,30 @@
+name: PortalsControl
+version: '1.0'
+main: org.ferrum.portalsControl.PortalsControl
+api-version: '1.16'
+load: STARTUP
+authors: [ Egor_10 ]
+
+permissions:
+  portalscontrol.command:
+    default: op
+  portalscontrol.reload:
+    default: op
+  portalscontrol.bypass.world:
+    default: false
+  portalscontrol.bypass.nether:
+    default: false
+  portalscontrol.bypass.end:
+    default: false
+  portalscontrol.block.world:
+    default: false
+  portalscontrol.block.nether:
+    default: false
+  portalscontrol.block.end:
+    default: false
+
+
+commands:
+  portalscontrol:
+    description: command
+    usage: /portalscontrol <world> [on/off]

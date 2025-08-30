@@ -1,0 +1,8 @@
+
+# PortalsControl config
+language: en #only en, ru
+
+Block_teleport_to:
+  world: false
+  nether: true
+  end: true
