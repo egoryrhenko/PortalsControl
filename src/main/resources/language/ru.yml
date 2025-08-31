@@ -1,6 +1,9 @@
-ToWorldPortalOn: Портал в &bWorld&f &aвключён
-ToWorldPortalOff: Портал в &bWorld&f &cвыключен
-ToNetherPortalOn: Портал в &cNether&f &aвключён
-ToNetherPortalOff: Портал в &cNether&f &cвыключен
-ToEndPortalOn: Портал в &dEnd&f &aвключён
-ToEndPortalOff: Портал в &dEnd&f &cвыключен
+ReloadMessage: "&aКонфиг плагина был перезагружен"
+UnknownWorldType: "&cНеизвестный тип мира: "
+
+ToWorldPortalOn: "Портал в &bWorld&f &aвключён"
+ToWorldPortalOff: "Портал в &bWorld&f &cвыключен"
+ToNetherPortalOn: "Портал в &cNether&f &aвключён"
+ToNetherPortalOff: "Портал в &cNether&f &cвыключен"
+ToEndPortalOn: "Портал в &dEnd&f &aвключён"
+ToEndPortalOff: "Портал в &dEnd&f &cвыключен"
